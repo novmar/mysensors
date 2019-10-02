@@ -28,7 +28,9 @@
 
 // Enable debug prints to serial monitor
 //#define MY_DEBUG 
-
+#define MY_NODE_ID 5
+#define MY_PARENT_NODE_ID 1
+#define MY_PARENT_NODE_IS_STATIC
 // Enable and select radio type attached
 #define MY_RADIO_RF24
 //#define MY_RADIO_RFM69

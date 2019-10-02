@@ -37,6 +37,7 @@
 
 // Enable debug prints to serial monitor
 #define MY_DEBUG
+#define MY_NODE_TYPE "REPEATER"
 
 // Enable and select radio type attached
 #define MY_RADIO_RF24
